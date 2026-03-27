@@ -81,7 +81,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-stunning-elegant-model-wearing-high-en-1774629390894-8ec53ba3.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-stunning-elegant-model-wearing-high-en-1774629390894-8ec53ba3.png?_wi=6"
       columns={[
         {
           title: "Shop",
