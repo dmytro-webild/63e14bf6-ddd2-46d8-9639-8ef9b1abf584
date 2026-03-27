@@ -61,7 +61,7 @@ export default function LandingPage() {
           price: "$45",
           rating: 5,
           reviewCount: "120",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-detailed-close-up-of-a-premium-black-l-1774629382194-aaa1ecc5.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-detailed-close-up-of-a-premium-black-l-1774629382194-aaa1ecc5.png?_wi=2",
         },
         {
           id: "2",
@@ -70,7 +70,7 @@ export default function LandingPage() {
           price: "$25",
           rating: 5,
           reviewCount: "89",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-pair-of-delicate-nude-lace-panties-pro-1774629379394-88f79e16.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-pair-of-delicate-nude-lace-panties-pro-1774629379394-88f79e16.png?_wi=2",
         },
       ]}
       title="Collections"
@@ -117,7 +117,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-stunning-elegant-model-wearing-high-en-1774629390894-8ec53ba3.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-stunning-elegant-model-wearing-high-en-1774629390894-8ec53ba3.png?_wi=3"
       columns={[
         {
           title: "Shop",
