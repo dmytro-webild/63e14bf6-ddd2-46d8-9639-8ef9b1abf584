@@ -77,7 +77,7 @@ export default function LandingPage() {
           href: "/shop",
         },
       ]}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-stunning-elegant-model-wearing-high-en-1774629390894-8ec53ba3.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-stunning-elegant-model-wearing-high-en-1774629390894-8ec53ba3.png?_wi=1"
       mediaAnimation="blur-reveal"
     />
   </div>
@@ -134,7 +134,7 @@ export default function LandingPage() {
           category: "Style",
           title: "How to Care for Lace",
           excerpt: "Keep your pieces looking new forever.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-detailed-close-up-of-a-premium-black-l-1774629382194-aaa1ecc5.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-detailed-close-up-of-a-premium-black-l-1774629382194-aaa1ecc5.png?_wi=1",
           authorName: "Veloura Team",
           authorAvatar: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-chic-portrait-of-a-woman-smiling-warm--1774629380485-859ffa37.png",
           date: "Jan 12, 2025",
@@ -144,7 +144,7 @@ export default function LandingPage() {
           category: "Lifestyle",
           title: "Confidence Starts Within",
           excerpt: "Finding your inner spark every day.",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-pair-of-delicate-nude-lace-panties-pro-1774629379394-88f79e16.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-pair-of-delicate-nude-lace-panties-pro-1774629379394-88f79e16.png?_wi=1",
           authorName: "Veloura Team",
           authorAvatar: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-chic-portrait-of-a-woman-smiling-warm--1774629380485-859ffa37.png",
           date: "Jan 15, 2025",
@@ -198,7 +198,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-stunning-elegant-model-wearing-high-en-1774629390894-8ec53ba3.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_39wSE8YJoGda03bkKGOyyo2rjk4/a-stunning-elegant-model-wearing-high-en-1774629390894-8ec53ba3.png?_wi=2"
       columns={[
         {
           title: "Shop",
